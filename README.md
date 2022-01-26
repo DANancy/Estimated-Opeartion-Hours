@@ -2,21 +2,21 @@
 
 ### Project Structure
 * Output
-    * 1.Input Data Inspection
+    * **1.Input Data Inspection**
     * 1.1 Data Validation and Data Verification Report.docx
     * 1.2 data_validation_helper.py
     * 1.3 data_validatoin_and_data_verification.ipynb
-    * 2.Process Map
+    * **2. Process Map**
     * 2.1 Process_Flow_and_Diagrams.pptx
     * 2.2 Shell Energy Dashboard ELT - Simple Solution.png
     * 2.3 Shell Energy Dashboard ETL - Cloud Solution.png
-    * 3.Transform Step Implementation
+    * **3. Transform Step Implementation**
     * 3.1 data_transform_helper.py
     * 3.2 data_transformation.ipynb
     * 3.3 data_validation_helper.py
     * 3.4 database_helper.py
     * 3.5 test_data_transform_helper.py
-    * 4.Analysis
+    * **4. Analysis**
     * 4.1 NMI_Hourly_Consumption_Report.csv
     * 4.2 Estimated_Operation_Hours_Dashboard.pbix
     * 4.3 Estimated_Operation_Hours_Dashboard.jpg
