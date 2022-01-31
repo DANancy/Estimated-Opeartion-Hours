@@ -45,12 +45,17 @@ $ git clone https://github.com/DANancy/Estimated-Operation-Hours.git
 $ cd Output/3.Transfrom Step Implementation
 ```
 
-4. run unittest
+4. run transform
+```
+$ python -m notebook
+```
+
+5. run unittest
 ```
 $ python -m unittest -v test_data_transform_helper.py
 ```
 
-5.  run test coverage report to gauge the effectiveness of tests
+6.  run test coverage report to gauge the effectiveness of tests
 ```
 $ pip install coverage
 $ coverage run -m unittest
