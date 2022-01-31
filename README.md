@@ -45,7 +45,7 @@ $ git clone https://github.com/DANancy/Estimated-Operation-Hours.git
 $ cd Output/3.Transfrom Step Implementation
 ```
 
-4. run transform
+4. run transform, and run all cells
 ```
 $ python -m notebook
 ```
